@@ -8,5 +8,7 @@ These directories support the investigation I did on the corrosion resitance of 
 
 3. DOS-and-elastic-constants/ -- the PDOS data and scripts as well as the elastic constant outcar and scripts for the bulk MC2 structure
 
-adsorption/ -- the data from the eight-site 1/15 ML chlorine study
+4. adsorption/ -- the data from the eight-site 1/15 ML chlorine calculation
+
+5. extra/ -- data from calculations that were not included in the manuscript after revisions were made 
 
