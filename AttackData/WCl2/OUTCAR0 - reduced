@@ -1,0 +1,58 @@
+
+
+
+  FREE ENERGIE OF THE ION-ELECTRON SYSTEM (eV)
+  ---------------------------------------------------
+  free  energy   TOTEN  =      -508.32102983 eV
+
+  energy  without entropy=     -508.30800167  energy(sigma->0) =     -508.31777279
+ 
+ d Force = 0.4767620E-04[-0.810E-05, 0.103E-03]  d Energy = 0.4349211E-04 0.418E-05
+ d Force = 0.1863034E+01[ 0.186E+01, 0.186E+01]  d Ewald  = 0.1863035E+01-0.581E-06
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+    POTLOK:  cpu time    0.0958: real time    0.0958
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+  
+ reached required accuracy - stopping structural energy minimisation
+     LOOP+:  cpu time  228.1363: real time  228.1714
+    4ORBIT:  cpu time    0.0000: real time    0.0000
+
+ total amount of memory used by VASP on root node   169234. kBytes
+========================================================================
+
+   base      :      30000. kBytes
+   nonlr-proj:       5972. kBytes
+   fftplans  :       2917. kBytes
+   grid      :       7869. kBytes
+   one-center:        124. kBytes
+   wavefun   :     122352. kBytes
+ 
+  
+  
+ General timing and accounting informations for this job:
+ ========================================================
+  
+                  Total CPU time used (sec):    38733.008
+                            User time (sec):    38651.345
+                          System time (sec):       81.662
+                         Elapsed time (sec):    38741.188
+  
+                   Maximum memory used (kb):      261648.
+                   Average memory used (kb):           0.
+  
+                          Minor page faults:       659492
+                          Major page faults:            0
+                 Voluntary context switches:       339144
