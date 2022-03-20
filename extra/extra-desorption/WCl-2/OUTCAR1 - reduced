@@ -1,0 +1,65 @@
+
+
+  FREE ENERGIE OF THE ION-ELECTRON SYSTEM (eV)
+  ---------------------------------------------------
+  free  energy   TOTEN  =      -504.23465279 eV
+
+  energy  without entropy=     -504.21741864  energy(sigma->0) =     -504.23034425
+ 
+ d Force = 0.1132462E-03[ 0.298E-04, 0.197E-03]  d Energy = 0.1317809E-03-0.185E-04
+ d Force = 0.5176472E+00[ 0.517E+00, 0.518E+00]  d Ewald  = 0.5176459E+00 0.130E-05
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+    POTLOK:  cpu time    0.1351: real time    0.1355
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+ Conjugate gradient step on ions:
+ trial-energy change:   -0.000132  1 .order   -0.000113   -0.000197   -0.000030
+  (g-gl).g = 0.227E-04      g.g   = 0.204E-04  gl.gl    = 0.303E-04
+ g(Force)  = 0.204E-04   g(Stress)= 0.000E+00 ortho     =-0.167E-05
+ gamma     =   0.74922
+ trial     =  10.25853
+ opt step  =  11.31629  (harmonic =  12.09424) maximal distance =0.00657229
+ next E    =  -504.234654   (d E  =  -0.00013)
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+  
+ reached required accuracy - stopping structural energy minimisation
+     LOOP+:  cpu time  324.8773: real time  326.0046
+    4ORBIT:  cpu time    0.0000: real time    0.0000
+
+ total amount of memory used by VASP MPI-rank0   250761. kBytes
+=======================================================================
+
+   base      :      30000. kBytes
+   nonlr-proj:       7365. kBytes
+   fftplans  :       5432. kBytes
+   grid      :      15728. kBytes
+   one-center:        155. kBytes
+   wavefun   :     192081. kBytes
+ 
+  
+  
+ General timing and accounting informations for this job:
+ ========================================================
+  
+                  Total CPU time used (sec):    50094.688
+                            User time (sec):    46385.675
+                          System time (sec):     3709.012
+                         Elapsed time (sec):    50264.611
+  
+                   Maximum memory used (kb):      460844.
+                   Average memory used (kb):           0.
+  
+                          Minor page faults:      5837021
+                          Major page faults:           92
+                 Voluntary context switches:        21001
